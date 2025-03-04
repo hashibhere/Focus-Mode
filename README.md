@@ -32,3 +32,5 @@
 This project is open-source under the **MIT License**.  
 
 ---
+
+Motivation - Was fed up of no of times I visited sites like LinkedIn/Techcrunch/TechinAisa etc...
